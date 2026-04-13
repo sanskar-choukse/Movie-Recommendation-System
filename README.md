@@ -3,7 +3,7 @@
 A content-based movie recommendation system built with FastAPI, Streamlit, and machine learning. Get personalized movie recommendations based on your favorite films using TF-IDF vectorization and cosine similarity.
 
 ## � Live Demo
-(https://movie-recommendation-system-zukjowqs6ouc6iepssjgv3.streamlit.app/?view=home#movie-recommender)
+https://movie-recommendation-system-zukjowqs6ouc6iepssjgv3.streamlit.app/?view=home#movie-recommender
 
 ## 🌟 Features
 
